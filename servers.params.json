@@ -1,0 +1,14 @@
+[
+  {
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "RenmoWebApp"
+  },
+  {
+    "ParameterKey": "ServerAMIId",
+    "ParameterValue": "ami-0fb653ca2d3203ac1"
+  },
+  {
+    "ParameterKey": "InstanceType",
+    "ParameterValue": "t2.micro"
+  }
+]
